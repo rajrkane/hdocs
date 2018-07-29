@@ -1,0 +1,23 @@
+body {
+    background: mintcream !important;
+}
+
+.editor {
+    border: solid 1px gray;
+    border-radius: 2px;
+    padding: 15px;
+    background: white
+}
+
+.register {
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+/* body {
+    background: 'orange';
+    font-family: 'Bodoni', serif;
+    height: 100%
+  } */
+

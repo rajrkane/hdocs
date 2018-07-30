@@ -1,5 +1,5 @@
 /**
- * @file Handles setting title and shareable ID of a new document.
+ * @file Handles setting title of a new document.
  */
 
 import React from 'react'

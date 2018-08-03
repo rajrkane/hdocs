@@ -38,13 +38,13 @@ export default class Login extends React.Component {
         }).then(res => {
             switch(res.status) {
                 case 200:
-                    this.props.setLogin('true') //
+                    this.props.setLogin(true)
                     this.props.redirect('DocumentList')
                     break
                 default:
                     console.log(res.status) 
             }
-        }).catch(err => console.log(err)) //
+        }).catch(err => console.log(err))
     };
 
     render() {

@@ -68,7 +68,7 @@
     "express-session": "^1.15.6",
     "immutable": "^3.8.2",
     "material-ui": "^0.20.1",
-    "mongoose": "^5.2.5",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "passport": "^0.4.0",
     "passport-local": "^1.0.0",

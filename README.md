@@ -3,7 +3,7 @@ A collaborative rich-text editing desktop application. Users can create, view, e
 
 <h2>Walkthrough</h2>
 
-You can find a walkthrough on [my website](https://rajrkane.com/2018/08/06/how-i-built-a-google-docs-imitation/). 
+You can find a walkthrough on [my website](https://rajrkane.com/how-i-built-a-google-docs-imitation/). 
 
 <h2>Requirements</h2>
 
